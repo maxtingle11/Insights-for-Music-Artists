@@ -98,33 +98,27 @@ By stratifying results by popularity, I have theoretically separated the similar
 
 I stratified the results by popularity because new artists should not waste their marketing dollars feeding ads to mainstream markets. Instead, new artists whould target the pages of similar artists that have early markets. In other words, new artists should target pages of artists with lower popularity scores but have a larger listenership of "innovators" and "early adopters." Marketing to these "early market" listeners would help move a new artist along the Product Adoption Curve because these are the listeners who like discovering, listening to, and sharing new artists / new music.
 
+![Artist Insights Report](images/06_artist_insights_report.jpg)
+
 Now returning to the Insights Report developed for Andrew Marks. Instead of targeting similar artists with high popluarity scores and a "mainstream" listenership (such as Avicii, Tiesto, and David Guetta), it would be a more efficient and effective use of marketing dollars to target the pages similar artists with more of an "early market" listenership.
 
-More specifocally, if Andrew Marks was running targeted ads, he should target the listenership of the similar artists within his popularity score class and similar artists in the popularity score class above his own. Similar artists in his own popularity score class would include Alex Price, Fairlight Children, NXNY, and Patrik Remann. Similar artists in the popularity score class above his own would include Bobby Puma, Benny Camaro, POP CULTUR, 3LOGY, Sam Void
+More specifically, if Andrew Marks was running targeted ads, he should target the listenership of the similar artists within his popularity score class and similar artists in the popularity score class above his own. Similar artists in his own popularity score class would include Alex Price, Fairlight Children, NXNY, and Patrik Remann. Similar artists in the popularity score class above his own would include Bobby Puma, Benny Camaro, POP CULTUR, 3LOGY, and Sam Void.
 
 
 ## Next Steps
 ![Next Steps](images/12_next_steps.jpg)
 
-Future work includes retrieving more artist and song data
-conducting semi-supervised clustering
-
-The web app could be further developed by adding
-
-
-
-
 ### Future Work
-  **- Retrieve More Data:** 
+  **- Retrieve More Data:** More data would mean more artist profiles, which could return a more specific list of similar artists and suggested genre tags.
 
-  **- Semi-Supervised Clustering:** 
+  **- Semi-Supervised Clustering:** Unsupervised clustering with kmeans did not yield useful market segmentation insights. However, it might be worth trying semi-supervised clustering with genre labels to try to discover whether genre-based clusters could emerge. 
 
 ### App Development
-  **- Search By Artist Name:** 
+  **- Search By Artist Name:** Instead of having to go to an artist's page on Spotify to copy their URI, it might be possible to add a search feature that would return a list of artists, from which a user could select one to run through the Insight Developer.
 
-  **- Automatically Generate Playlist:** 
+  **- Automatically Generate Playlist:** Instead of having to make a playlist by searching each of the independent artists individually, it is possible to create a playlist of songs from each of the similar artists for the user to listen through.
 
 ### Growth Opportunities
-  **- Audience Location by Artist:** 
+  **- Audience Location by Artist:** If user data were could be retrieved from Spotify's API, it would be possible to also tell artists where other artists' audiences are located. 
 
-  **- Audio Profiles of Cities:** 
+  **- Audio Profiles of Cities:** Additionally, with access to user data, it would be possible to develop audio profiles for cities, which could help inform tour planning.
