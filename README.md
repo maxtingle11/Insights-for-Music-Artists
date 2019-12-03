@@ -1,9 +1,9 @@
 # Insights for Music Artists
 ![Insights for Music Artists](images/01_title.jpg)
 
-I am a graduate of the Flatiron School's Data Science Fellowship program.  I completed the Washington, DC-based 15-week intensive data science bootcamp in December of 2019.  "Insights for Music Artists" is the last in a series of projects where I worked with data retrieved from Spotify's API to practice hypothesis testing, regression and classification analyses, and tuning machine learning algorithms to make predictions. 
+I am a graduate of the Flatiron School's Data Science Fellowship program. I completed the Washington, DC-based 15-week intensive data science bootcamp in December of 2019. "Insights for Music Artists" is the last in a series of projects where I worked with data retrieved from Spotify's API to practice hypothesis testing, regression and classification analyses, and tuning machine learning algorithms to make predictions. 
 
-For this project, I conducted market segmentation analysis for ~300,000 artists retrieved from Spotify’s Web API using unsupervised learning (clustering and dimensionality reduction) and distance-based clustering.  I then developed a Flask web app (deployed via Heroku) that finds artists who share similar audio profiles and stratifies the results by popularity score.
+For this project, I conducted market segmentation analysis for ~300,000 artists retrieved from Spotify’s Web API using unsupervised learning (clustering and dimensionality reduction) and distance-based clustering. I then developed a Flask web app (deployed via Heroku) that finds artists who share similar audio profiles and stratifies the results by popularity score.
 
 
 ## The Problem: New Artists Have Minimal to No Data
@@ -17,7 +17,14 @@ The problem, however, is that new artists are highly unlikely to have a substant
 ## The Solution: Artist Insights Web App
 ![Artist Insights Web App](images/03_web_app.jpg)
 
-I developed a web app and model that returns useful insights for artists at any point in the development of their listenership.
+I developed a model and subsequent web app that returns useful insights for artists at any point in the development of their listenership, especially for new artists with minimal to no data.
+
+  1) The web app returns the name, genre tags, popularity score, and follower count of the entered artist.
+  
+  2) The web app finds artists who share similar audio profiles as the entered artist and stratifies the results by popularity score.
+
+  3) The web app also suggests genre tags for the entered artist based on the frequency of the similar artists' genre tags.
+  
 
 ## Example: Andrew Marks - DJ, Producer, Dance Music Artist
 ![Andrew Marks](images/04_andrew_marks.jpg)
