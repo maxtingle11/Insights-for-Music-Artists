@@ -109,9 +109,9 @@ More specifically, if Andrew Marks was running targeted ads, he should target th
 ![Next Steps](images/12_next_steps.jpg)
 
 ### Future Work
-  **1. Retrieve More Data:** More data would mean more artist profiles, which could return a more specific list of similar artists and suggested genre tags.
+  - **Retrieve More Data:** More data would mean more artist profiles, which could return a more specific list of similar artists and suggested genre tags.
 
-  **2. Semi-Supervised Clustering:** Unsupervised clustering with kmeans did not yield useful market segmentation insights. However, it might be worth trying semi-supervised clustering with genre labels to try to discover whether genre-based clusters could emerge. 
+  - **Semi-Supervised Clustering:** Unsupervised clustering with kmeans did not yield useful market segmentation insights. However, it might be worth trying semi-supervised clustering with genre labels to try to discover whether genre-based clusters could emerge. 
 
 ### App Development
   **- Search By Artist Name:** Instead of having to go to an artist's page on Spotify to copy their URI, it might be possible to add a search feature that would return a list of artists, from which a user could select one to run through the Insight Developer.
