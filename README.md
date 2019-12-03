@@ -24,18 +24,26 @@ I developed a model and subsequent web app that returns useful insights for arti
   2. Finds artists who share similar audio profiles as the entered artist and stratifies the results by popularity score.
 
   3. Suggests genre tags for the entered artist based on the frequency of the similar artists' genre tags.
-  
+
+Web App Link: **<.heroky.com>**
+
 
 ## Example: Andrew Marks - DJ, Producer, Dance Music Artist
 ![Andrew Marks](images/04_andrew_marks.jpg)
 
+For a live demonstration of the Artist Insights web app, open Spotify via the desktop or website and log-in to your account. The following process will not work when using the Spotify mobile app. Once logged in, use the search bar at the top to find "Andrew Marks."
 
-## To Use the App, Copy Artist's Spotify URI
 ![Copy Spotify URI](images/05_copy_uri.jpg)
 
+Then, you will need Andrew's Spotify URI to run the Insights Developer. A URI is a unique code that Spotify assigns to each artist, track, album, user, and playlist. To copy Andrew's Spotify URI, click the circle with three dots under his name, hover over the "Share" option, and click on "Copy Spotify URI" to copy his URI (... > Share > Copy Spotify URI).
 
-## Sample Artist Insights Report
+![Artist Insights Web App](images/03_web_app.jpg)
+
+After copying the URI, proceed back to the Artist Insights web app and paste the URI into the text field and click the "Run Insight Developer" button.
+
 ![Artist Insights Report](images/06_artist_insights_report.jpg)
+
+The Insights Developer will take about 20 seconds to develop a report, like the one pictured above. 
 
 
 ## Why find similar artists and suggested genre tags?
