@@ -6,7 +6,7 @@ I am a graduate of the Flatiron School's Data Science Fellowship program. I comp
 For this project, I conducted market segmentation analysis for ~300,000 artists retrieved from Spotify’s Web API using unsupervised learning (clustering and dimensionality reduction) and distance-based clustering. I then developed a Flask web app (deployed via Heroku) that finds artists who share similar audio profiles.
 
 
-## The Problem: New Artists Have Minimal to No Data
+## The Problem: New Artists Have No Data
 ![Spotify Dashboard](images/02_spotify_dashboard.jpg)
 
 Currently, music artists have access to data-backed insights from companies like Spotify, Apple Music, and YouTube (to name a few). The insights provided are derived from listener engagement data (as pictured in the Spotify dashboard above), listener demographic data, streaming data, as well as earned revenue data. 
@@ -56,7 +56,7 @@ In the screenshot above, you can see that the app:
 
 ![Similar to Andrew Playlist](images/07_similar_to_andrew_playlist.jpg)
 
-I made a Spotify playlists (pictured above) that contains one song from each of the similar artists found by the Insight Developer. You can click the link below to check out a couple of Andrew Marks' songs and see how accurately the model identified other dance artists with similar audio profiles.
+I made a Spotify playlists (pictured above) that contains one song from each of the similar artists found by the Insight Developer. You can click the link below to check out a couple of Andrew Marks' songs and see how accurately the model identified artists with similar audio profiles.
 
 [LINK: "Similar to Andrew Marks" Spotify Playlist](https://open.spotify.com/playlist/5pQm4NFhiT3U7ec3OKm0Ea?si=DnQCJ_k0SjWBI-wrz-YIDA)
 
@@ -71,12 +71,12 @@ Facebook Ads Targeting: Lady Gaga
 Facebook Ads Targeting: EDM
 ![Facebook Ads Targeting: EDM](images/09_facebook_ads_edm.jpg)
 
-
 ### Why stratify similar artists by popularity score?
 
 ![Product Adoption Curve](images/10_product_adoption_curve.jpg)
 
 ![Target Early Markets](images/11_target_early_markets.jpg)
+
 
 ## Next Steps
 ![Next Steps](images/12_next_steps.jpg)
