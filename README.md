@@ -98,25 +98,9 @@ By stratifying results by popularity, I have theoretically separated the similar
 
 I stratified the results by popularity because new artists should not waste their marketing dollars feeding ads to mainstream markets. Instead, new artists whould target the pages of similar artists that have early markets. In other words, new artists should target pages of artists with lower popularity scores but have a larger listenership of "innovators" and "early adopters." Marketing to these "early market" listeners would help move a new artist along the Product Adoption Curve because these are the listeners who like discovering, listening to, and sharing new artists / new music.
 
-Returning to the Insights Report developed for Andrew Marks, I recommend that instead of targeting similar artists with high popluarity scores and a "mainstream" listenership (such as Avicii, Tiesto, and David Guetta) it would be a more efficient and effective use of marketing dollars to target the pages similar artists with more of an "early market" listenership.
+Now returning to the Insights Report developed for Andrew Marks. Instead of targeting similar artists with high popluarity scores and a "mainstream" listenership (such as Avicii, Tiesto, and David Guetta), it would be a more efficient and effective use of marketing dollars to target the pages similar artists with more of an "early market" listenership.
 
-Spepedi
-
-
-popularity scores similar
-
-to, or just above, his popularity score because those artists would have 
-
-effective ad spend to
-
-
-he should target the listenership of the artists within or in the class above his popularity class to increase the size of his own listenership and target the fanbases of the most similar artists.
-
-
-
-Such artists in his own popularity class would include: Alex Price, Fairlight Children, NXNY, and Patrik Remann. Artists in the popularity class above his own would include Bobby Puma, Benny Camaro, POP CULTUR, 3LOGY, Sam Void
-
-, 
+More specifocally, if Andrew Marks was running targeted ads, he should target the listenership of the similar artists within his popularity score class and similar artists in the popularity score class above his own. Similar artists in his own popularity score class would include Alex Price, Fairlight Children, NXNY, and Patrik Remann. Similar artists in the popularity score class above his own would include Bobby Puma, Benny Camaro, POP CULTUR, 3LOGY, Sam Void
 
 
 ## Next Steps
