@@ -6,7 +6,7 @@ I am a graduate of the Flatiron School's Data Science Fellowship program. I comp
 For this project, I conducted market segmentation analysis for ~300,000 artists retrieved from Spotify’s Web API using unsupervised learning (clustering and dimensionality reduction) and distance-based clustering. I then developed a Flask web app (deployed via Heroku) that finds artists who share similar audio profiles.
 
 
-## The Problem: New Artists Have No Data
+## Problem: New Artists Have No Data
 ![Spotify Dashboard](images/02_spotify_dashboard.jpg)
 
 Currently, music artists have access to data-backed insights from companies like Spotify, Apple Music, and YouTube (to name a few). The insights provided are derived from listener engagement data (as pictured in the Spotify dashboard above), listener demographic data, streaming data, as well as earned revenue data. 
@@ -14,7 +14,7 @@ Currently, music artists have access to data-backed insights from companies like
 The problem, however, is that new artists are highly unlikely to have a substantial listenership, meaning that majority of their songs have been streamed under 1,000 times. Therefore, **new artists do not yet have enough data** to fuel the insights provided by these companies, leaving them with minimal insights to inform their marketing efforts.
 
 
-## The Solution: Artist Insights Web App
+## Solution: Artist Insights Web App
 ![Artist Insights Web App](images/03_web_app.jpg)
 
 I developed a model and subsequent web app that returns useful insights for artists at any point in the development of their listenership, especially for new artists with minimal to no data. The web app does the following:
