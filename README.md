@@ -1,9 +1,12 @@
 # Insights for Music Artists
 ![Insights for Music Artists](images/01_title.jpg)
 
+I am a graduate of the Flatiron School's Data Science Fellowship program. I completed the Washington, DC-based 15-week intensive data science bootcamp in December of 2019. Insights for Music Artists is the last in a series of projects where I worked with data retrieved from Spotify's API to practice hypothesis testing, regression and classification analyses, and tuning machine learning algorithms to make predictions. 
+
+For this project, I conducted market segmentation analysis for ~300,000 artists retrieved from Spotify’s Web API using unsupervised learning (clustering and dimensionality reduction) and distance-based clustering. I then developed a Flask web app (deployed via Heroku) that finds artists who share similar audio profiles and stratifies the results by popularity score.
+
 
 ## The Problem: New Artists Have Minimal to No Data
-
 ![Spotify Dashboard](images/02_spotify_dashboard.jpg)
 
 Currently, music artists have access to data-backed insights from companies like Spotify, Apple Music, and YouTube (to name a few). The insights provided are derived from listener engagement data (as pictured in the Spotify dashboard above), listener demographic data, streaming data, as well as earned revenue data. 
@@ -12,7 +15,6 @@ The problem, however, is that new artists are highly unlikely to have a substant
 
 
 ## The Solution: Artist Insights Web App
-
 ![Artist Insights Web App](images/03_web_app.jpg)
 
 I developed a web app and model that returns useful insights for artists at any point in the development of their listenership.
