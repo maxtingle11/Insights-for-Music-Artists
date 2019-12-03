@@ -75,7 +75,7 @@ In the first image, adding "Lady Gaga" as in the "Detailed Targeting" field iden
 
 ![Facebook Ads Targeting: EDM](images/09_facebook_ads_edm.jpg)
 
-Currently the best practice for new artists running Facebook/Instagram ads is to think of an artist that sounds similar and target the people who like that similar artist's page, and/or decide which genre best represents the artist and then target an audience who likes that specific genre. 
+The current best practice for new artists running Facebook/Instagram ads is to think of an artist that sounds similar and target the people who like that similar artist's page, and/or decide which genre best represents the artist and then target an audience who likes that specific genre. 
 
 The problem with the current best practice is that the judgement of a new artist determining similar artists or genre tag is 1) limited to the artists and genres the artist knows and/or is aware of (there are over 2,000 genre tags and 2 million artists on Spotify) and is 2) subjective to the judgement of the artist (who is not typically an expert on the differences in genres). 
 
@@ -84,9 +84,39 @@ Therefore, utilizing a model (that uses data and math instead of limited knowled
 
 ### Why stratify similar artists by popularity score?
 
+The reason underpinning the decision to stratify by popularity scores rests in the business concept of the Product Adoption Curve. The Product Adoption Curve is divided into two market segments, the early market and the mainstream market, as pictured below. 
+
+The early market, consisting of innovators and early adopters, is comprised of the consumers who are the first to adopt a product. In the current business case, think of the early market as listeners who want to hear an artist's songs first and who go out of their way to share a new song with others, almost as a brand ambassador would, but without being asked to do so by the artist.
+
 ![Product Adoption Curve](images/10_product_adoption_curve.jpg)
 
+The mainstream market, on the other hand, consists of the majority of the market: the early majority, late majority, and laggards. The mainstream market begins to adopt a product after the early market. Think of the mainstream market as listeners who had to be given a reason to listen to a new song/artist, listeners who were hesitant but wish they had listened sooner, and listeners who are reluctant but end up listening and liking the song if you play it for them.
+
+By stratifying results by popularity, I have theoretically separated the similar artists based on where they are in the Product Adoption Curve. Artists with a lower popularity score have songs being adopted by the early market, and artists with higher popularity scores are further along the Product Adoption Curve. The artists with the highest popularity scores are marketing to get the "Late Majority" and "Laggards" segments of the mainstream market to "adopt" or listen to their products (music, shows, and merchandise).
+
 ![Target Early Markets](images/11_target_early_markets.jpg)
+
+I stratified the results by popularity because new artists should not waste their marketing dollars feeding ads to mainstream markets. Instead, new artists whould target the pages of similar artists that have early markets. In other words, new artists should target pages of artists with lower popularity scores but have a larger listenership of "innovators" and "early adopters." Marketing to these "early market" listeners would help move a new artist along the Product Adoption Curve because these are the listeners who like discovering, listening to, and sharing new artists / new music.
+
+Returning to the Insights Report developed for Andrew Marks, I recommend that instead of targeting similar artists with high popluarity scores and a "mainstream" listenership (such as Avicii, Tiesto, and David Guetta) it would be a more efficient and effective use of marketing dollars to target the pages similar artists with more of an "early market" listenership.
+
+Spepedi
+
+
+popularity scores similar
+
+to, or just above, his popularity score because those artists would have 
+
+effective ad spend to
+
+
+he should target the listenership of the artists within or in the class above his popularity class to increase the size of his own listenership and target the fanbases of the most similar artists.
+
+
+
+Such artists in his own popularity class would include: Alex Price, Fairlight Children, NXNY, and Patrik Remann. Artists in the popularity class above his own would include Bobby Puma, Benny Camaro, POP CULTUR, 3LOGY, Sam Void
+
+, 
 
 
 ## Next Steps
