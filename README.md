@@ -63,13 +63,24 @@ I made a Spotify playlists (pictured above) that contains one song from each of 
 
 ## Discussing the Results
 
+Having run the model for multiple artists, the results tend to be more accurate for popularity scores between 11-80. The higher popularity score range (81-100) does return artists with similar audio profiles, but there are only ~300 artists in in the dataset for this popularity range. In the case of Andrew Marks, he is not very similar to Michael Jackson and Rammstein, but he is, however, quite similar to Avicci, Tiesto, and David Guetta.
+
 ### Why are similar artists and suggested genre tags useful insights for new artists?
 
-Facebook Ads Targeting: Lady Gaga
+The value of this web app is realized when optimizing audience targeting for Facebook/Instagram ads. The two images below show the interface for defining an audience for a Facebook/Instagram ad. Within the "Detailed Targeting" field, one has the option to enter names of similar artists and even genre names to further define and target the audience that will see the ad. 
+
 ![Facebook Ads Targeting: Lady Gaga](images/08_facebook_ads_lady_gaga.jpg)
 
-Facebook Ads Targeting: EDM
+In the first image, adding "Lady Gaga" as in the "Detailed Targeting" field identifies an audience of ~83 million people who have expressed an interest in or like pages related to Lady Gaga. In the second image, adding the genre "EDM" identifies an audience of ~6 million people who have expressed an interest in or like pages related to EDM.
+
 ![Facebook Ads Targeting: EDM](images/09_facebook_ads_edm.jpg)
+
+Currently the best practice for new artists running Facebook/Instagram ads is to think of an artist that sounds similar and target the people who like that similar artist's page, and/or decide which genre best represents the artist and then target an audience who likes that specific genre. 
+
+The problem with the current best practice is that the judgement of a new artist determining similar artists or genre tag is 1) limited to the artists and genres the artist knows and/or is aware of (there are over 2,000 genre tags and 2 million artists on Spotify) and is 2) subjective to the judgement of the artist (who is not typically an expert on the differences in genres). 
+
+Therefore, utilizing a model (that uses data and math instead of limited knowledge and judgement) to determine which artists share a similar audio profile and suggest genre tags will help better define relevant audiences to target with Facebook/Instagram ads.
+
 
 ### Why stratify similar artists by popularity score?
 
@@ -80,6 +91,14 @@ Facebook Ads Targeting: EDM
 
 ## Next Steps
 ![Next Steps](images/12_next_steps.jpg)
+
+Future work includes retrieving more artist and song data
+conducting semi-supervised clustering
+
+The web app could be further developed by adding
+
+
+
 
 ### Future Work
   **- Retrieve More Data:** 
