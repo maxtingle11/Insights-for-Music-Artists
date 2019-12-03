@@ -25,7 +25,7 @@ I developed a model and subsequent web app that returns useful insights for arti
 
   3. Suggests genre tags for the entered artist based on the frequency of the similar artists' genre tags.
 
-[LINK: Artist Insights Web App](.heroku.com)
+[LINK - Artist Insights Web App](.heroku.com)
 
 
 ## App Demonstration: Andrew Marks (DJ, Producer, Dance Music Artist)
@@ -58,7 +58,7 @@ In the screenshot above, you can see that the app:
 
 I made a Spotify playlists (pictured above) that contains one song from each of the similar artists found by the Insight Developer. You can click the link below to check out a couple of Andrew Marks' songs and see how accurately the model identified artists with similar audio profiles.
 
-[LINK: "Similar to Andrew Marks" Spotify Playlist](https://open.spotify.com/playlist/5pQm4NFhiT3U7ec3OKm0Ea?si=DnQCJ_k0SjWBI-wrz-YIDA)
+[LINK - "Similar to Andrew Marks" Spotify Playlist](https://open.spotify.com/playlist/5pQm4NFhiT3U7ec3OKm0Ea?si=DnQCJ_k0SjWBI-wrz-YIDA)
 
 
 ## Discussing the Results
