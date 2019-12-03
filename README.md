@@ -114,11 +114,11 @@ More specifically, if Andrew Marks was running targeted ads, he should target th
   - **Semi-Supervised Clustering:** Unsupervised clustering with kmeans did not yield useful market segmentation insights. However, it might be worth trying semi-supervised clustering with genre labels to try to discover whether genre-based clusters could emerge. 
 
 ### App Development
-  **- Search By Artist Name:** Instead of having to go to an artist's page on Spotify to copy their URI, it might be possible to add a search feature that would return a list of artists, from which a user could select one to run through the Insight Developer.
+  - **Search By Artist Name:** Instead of having to go to an artist's page on Spotify to copy their URI, it might be possible to add a search feature that would return a list of artists, from which a user could select one to run through the Insight Developer.
 
-  **- Automatically Generate Playlist:** Instead of having to make a playlist by searching each of the independent artists individually, it is possible to create a playlist of songs from each of the similar artists for the user to listen through.
+  - **Automatically Generate Playlist:** Instead of having to make a playlist by searching each of the independent artists individually, it is possible to create a playlist of songs from each of the similar artists for the user to listen through.
 
 ### Growth Opportunities
-  **- Audience Location by Artist:** If user data were could be retrieved from Spotify's API, it would be possible to also tell artists where other artists' audiences are located. 
+  - **Audience Location by Artist:** If user data were could be retrieved from Spotify's API, it would be possible to also tell artists where other artists' audiences are located. 
 
-  **- Audio Profiles of Cities:** Additionally, with access to user data, it would be possible to develop audio profiles for cities, which could help inform tour planning.
+  - **Audio Profiles of Cities:** Additionally, with access to user data, it would be possible to develop audio profiles for cities, which could help inform tour planning.
