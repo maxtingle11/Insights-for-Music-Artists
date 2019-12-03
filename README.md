@@ -1,33 +1,33 @@
 # Insights for Music Artists
 
-![Insights for Music Artists](01_title.jpg)
+![Insights for Music Artists](images/01_title.jpg)
 
 
-![Insights for Music Artists](02_spotify_dashboard.jpg)
+![Spotify Dashboard](images/02_spotify_dashboard.jpg)
 
 
-![Insights for Music Artists](03_web_app.jpg)
+![Artist Insights Web App](images/03_web_app.jpg)
 
 
-![Insights for Music Artists](04_andrew_marks.jpg)
+![Andrew Marks](images/04_andrew_marks.jpg)
 
 
-![Insights for Music Artists](05_copy_uri.jpg)
+![Copy Spotify URI](images/05_copy_uri.jpg)
 
 
-![Insights for Music Artists](06_artist_insights_report.jpg)
+![Artist Insights Report](images/06_artist_insights_report.jpg)
 
 
-![Insights for Music Artists](07_facebook_ads_lady_gaga.jpg)
+![Facebook Ads: Lady Gaga](images/07_facebook_ads_lady_gaga.jpg)
 
 
-![Insights for Music Artists](08_facebook_ads_edm.jpg)
+![Facebook Ads: EDM](images/08_facebook_ads_edm.jpg)
 
 
-![Insights for Music Artists](09_product_adoption_curve.jpg)
+![Product Adoption Curve](images/09_product_adoption_curve.jpg)
 
 
-![Insights for Music Artists](10_target_early_markets.jpg)
+![Target Early Markets](images/10_target_early_markets.jpg)
 
 
-![Insights for Music Artists](11_next_steps.jpg)
+![Next Steps](images/11_next_steps.jpg)
