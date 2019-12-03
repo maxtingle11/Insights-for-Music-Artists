@@ -54,21 +54,22 @@ In the screenshot above, you can see that the app:
 
   3. Suggested 5 genre tags for Andrew Marks based on the genre tags of the similar artists.
 
+![Similar to Andrew Playlist](images/07_similar_to_andrew_playlist.jpg)
 
 ## Why find similar artists and suggested genre tags?
 
 ### Facebook Ads Targeting: Lady Gaga
-![Facebook Ads Targeting: Lady Gaga](images/07_facebook_ads_lady_gaga.jpg)
+![Facebook Ads Targeting: Lady Gaga](images/08_facebook_ads_lady_gaga.jpg)
 
 ### Facebook Ads Targeting: EDM
-![Facebook Ads Targeting: EDM](images/08_facebook_ads_edm.jpg)
+![Facebook Ads Targeting: EDM](images/09_facebook_ads_edm.jpg)
 
 
 ## Why stratify similar artists by popularity score?
 
-![Product Adoption Curve](images/09_product_adoption_curve.jpg)
+![Product Adoption Curve](images/10_product_adoption_curve.jpg)
 
-![Target Early Markets](images/10_target_early_markets.jpg)
+![Target Early Markets](images/11_target_early_markets.jpg)
 
 ## Next Steps
-![Next Steps](images/11_next_steps.jpg)
+![Next Steps](images/12_next_steps.jpg)
