@@ -21,14 +21,14 @@ I developed a model and subsequent web app that returns useful insights for arti
 
   1. Returns the name, genre tags, popularity score, and follower count of the entered artist.
   
-  2. Finds artists who share similar audio profiles as the entered artist and stratifies the results by popularity score.
+  2. Finds artists who share similar audio profiles to the entered artist and stratifies the results by popularity score.
 
   3. Suggests genre tags for the entered artist based on the frequency of the similar artists' genre tags.
 
-Web App Link: **<.heroky.com>**
+Web App Link: **<.heroku.com>**
 
 
-## App Demonstration: Andrew Marks - DJ, Producer, Dance Music Artist
+## App Demonstration: Andrew Marks (DJ, Producer, Dance Music Artist)
 
 For a live demonstration of the Artist Insights web app, open Spotify via the desktop or website and log-in to your account. The following process will not work when using the Spotify mobile app. Once logged in, use the search bar at the top to find "Andrew Marks."
 
@@ -46,7 +46,13 @@ The Insights Developer will take about 20 seconds to develop a report, like the 
 
 ![Artist Insights Report](images/06_artist_insights_report.jpg)
 
+In the screenshot above, you can see that the app: 
 
+  1. Returned Andrew Marks' name, genre tags (blank because he has not yet been taged by Spotify), popularity score, and follower count;
+  
+  2. Found 5 artists for each popularity score range who share similar audio profiles to Andrew Marks; and
+
+  3. Suggested 5 genre tags for Andrew Marks based on the genre tags of the similar artists.
 
 
 ## Why find similar artists and suggested genre tags?
