@@ -15,16 +15,19 @@
 ![Insights for Music Artists](05_copy_uri.jpg)
 
 
-![Insights for Music Artists](06_facebook_ads_lady_gaga.jpg)
+![Insights for Music Artists](06_artist_insights_report.jpg)
 
 
-![Insights for Music Artists](07_facebook_ads_edm.jpg)
+![Insights for Music Artists](07_facebook_ads_lady_gaga.jpg)
 
 
-![Insights for Music Artists](08_product_adoption_curve.jpg)
+![Insights for Music Artists](08_facebook_ads_edm.jpg)
 
 
-![Insights for Music Artists](09_target_early_markets.jpg)
+![Insights for Music Artists](09_product_adoption_curve.jpg)
 
 
-![Insights for Music Artists](10_next_steps.jpg)
+![Insights for Music Artists](10_target_early_markets.jpg)
+
+
+![Insights for Music Artists](11_next_steps.jpg)
