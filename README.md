@@ -25,7 +25,7 @@ I developed a model and subsequent web app that returns useful insights for arti
 
   3. Suggests genre tags for the entered artist based on the frequency of the similar artists' genre tags.
 
-Web App Link: **<.heroku.com>**
+[LINK: Artist Insights Web App](.heroku.com)
 
 
 ## App Demonstration: Andrew Marks (DJ, Producer, Dance Music Artist)
@@ -56,16 +56,23 @@ In the screenshot above, you can see that the app:
 
 ![Similar to Andrew Playlist](images/07_similar_to_andrew_playlist.jpg)
 
-## Why find similar artists and suggested genre tags?
+I made a Spotify playlists (pictured above) that contains one song from each of the similar artists found by the Insight Developer. You can click the link below to check out a couple of Andrew Marks' songs and see how accurately the model identified other dance artists with similar audio profiles.
 
-### Facebook Ads Targeting: Lady Gaga
+[LINK: "Similar to Andrew Marks" Spotify Playlist](https://open.spotify.com/playlist/5pQm4NFhiT3U7ec3OKm0Ea?si=DnQCJ_k0SjWBI-wrz-YIDA)
+
+
+## Discussing the Results
+
+### Why are similar artists and suggested genre tags useful insights for new artists?
+
+Facebook Ads Targeting: Lady Gaga
 ![Facebook Ads Targeting: Lady Gaga](images/08_facebook_ads_lady_gaga.jpg)
 
-### Facebook Ads Targeting: EDM
+Facebook Ads Targeting: EDM
 ![Facebook Ads Targeting: EDM](images/09_facebook_ads_edm.jpg)
 
 
-## Why stratify similar artists by popularity score?
+### Why stratify similar artists by popularity score?
 
 ![Product Adoption Curve](images/10_product_adoption_curve.jpg)
 
@@ -73,3 +80,18 @@ In the screenshot above, you can see that the app:
 
 ## Next Steps
 ![Next Steps](images/12_next_steps.jpg)
+
+### Future Work
+  **- Retrieve More Data:** 
+
+  **- Semi-Supervised Clustering:** 
+
+### App Development
+  **- Search By Artist Name:** 
+
+  **- Automatically Generate Playlist:** 
+
+### Growth Opportunities
+  **- Audience Location by Artist:** 
+
+  **- Audio Profiles of Cities:** 
