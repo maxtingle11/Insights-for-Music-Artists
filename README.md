@@ -25,7 +25,7 @@ I developed a model and web app that returns useful insights for artists at any 
 
   3. Suggests genre tags for the entered artist based on the frequency of the similar artists' genre tags.
 
-[LINK - Artist Insights Web App](.heroku.com)
+[LINK - Artist Insights Web App](https://artist-insights.herokuapp.com/)
 
 
 ## App Demonstration: Andrew Marks (DJ, Producer, Dance Music Artist)
